@@ -1,4 +1,5 @@
 Command-Line Text Editor
+
 A lightweight, feature-rich command-line text editor built using C++, designed for efficient text manipulation directly from the terminal. This project includes file handling, text editing features, and advanced functionalities like undo/redo, search, and clipboard support.
 Features
 File Operations:
@@ -19,8 +20,8 @@ Libraries:
 Standard Template Library (STL)
 termios for terminal input handling
 
-Installation
-Clone the Repository:
+How to Run:
+Clone the Repository: 
 Compile the Code: Use a C++ compiler like g++ to compile the source code: 
 g++ -o editor main.cpp
 
